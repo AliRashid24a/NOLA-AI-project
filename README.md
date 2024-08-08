@@ -58,7 +58,13 @@ Two scripts in the library contain functions for image_processing and extracting
 
 `isValid`: Checks if the extracted dates are valid by comparing them to the current date.
 
-### Contact
+## Future Improvements
+
+- Training an OCR specifically for driver's licenses would be the best way to make sure that every variation between driver's licenses of each state could be accommodated.
+- Creating a loader function to make loading images onto the script easier to perform. This could be done using image detection trained to identify a driver's license using a camera. Or, an uploaded image of a driver's license could be verified through an OCR to detect for a valid license. 
+- More preprocessing to ensure that driver's licenses in various lighting conditions and orientations are fed to the OCR correctly.
+
+## Contact
 
 If you have any questions feel free to contact me at ali.rashid24a@gmail.com :)
  
