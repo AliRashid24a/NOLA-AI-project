@@ -4,7 +4,9 @@ This repo contains a proof of concept to extract the name and the expiration dat
 
 ## Requirements
 
-Refer to `requirements.txt` for all the packages used
+To setup pytesseract follow the installation instructions [here](https://github.com/madmaze/pytesseract)
+
+Refer to `requirements.txt` for all packages used
 
 ## Technologies
 
