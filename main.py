@@ -11,6 +11,7 @@ def main(img):
     extracted_names = combined_parser(ocr_text)
     print(f'{extracted_names}')
     is_valid = check_if_valid(ocr_text)
+    print('')
 
     return
 
